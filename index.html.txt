@@ -1,0 +1,20 @@
+<!doctype html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Моя личная страничка</title>
+    </head>
+    <body> 
+      <left><h1>Валерия Агаркова</h1></left>
+      <left><img alt="Я знаю, что ничего не знаю." width="15%" src="me.jpg"></left>
+      <br/>
+      <h2>Контакты:</h2>
+      Страничка <a href=https://vk.com/id445351408</a>
+      <br/>
+      <a href=https://github.com/fercke>GitHub</a>
+      <br/>
+      Телефон: <b>+7251956871</b>
+      <br/>
+      E-mail: <i>vdagarkova@edu.hse.ru</i>
+    </body>
+  </html>
